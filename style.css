@@ -29,7 +29,7 @@ body {
 }
 
 .logo {
-    background-image: url(Icon/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -168,7 +168,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    background-image: url(Images/Amazon\ poster.jpg);
+    background-image: url(Amazon\ poster.jpg);
     background-size: cover;
     height: 360px;
 
